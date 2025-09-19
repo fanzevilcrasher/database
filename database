@@ -3,12 +3,14 @@
     "username": "fanz",
     "password": "123",
     "role": "ADMIN",
-    "expired": "2025-12-31T23:59:59Z"
+    "expired": "2025-12-31T23:59:59Z",
+    "deviceId": "null"
   },
   {
     "username": "user2",
     "password": "abc",
     "role": "VIP",
-    "expired": "2025-10-15T23:59:59Z"
+    "expired": "2025-10-15T23:59:59Z",
+    "deviceId": "null"
   }
 ]
