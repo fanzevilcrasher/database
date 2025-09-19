@@ -1,16 +1,4 @@
 [
-  {
-    "username": "fanz",
-    "password": "123",
-    "role": "ADMIN",
-    "expired": "2025-12-31T23:59:59Z",
-    "deviceId": "null"
-  },
-  {
-    "username": "user2",
-    "password": "abc",
-    "role": "VIP",
-    "expired": "2025-10-15T23:59:59Z",
-    "deviceId": "null"
-  }
+  {"username":"fanz","key":"secret123","role":"VIP","expired":"2025-12-31T23:59:59Z","deviceId":""},
+  {"username":"user2","password":"abc","role":"ADMIN","expired":"2025-10-15T00:00:00Z","deviceId":""}
 ]
