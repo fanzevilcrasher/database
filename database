@@ -1,4 +1,14 @@
 [
-  {"username":"fanz","key":"ryu"},
-  {"username":"user2","key":"abc"}
+  {
+    "username": "fanz",
+    "key": "secret123",
+    "role": "VIP",
+    "expired": "2025-12-31T23:59:59Z"
+  },
+  {
+    "username": "user2",
+    "key": "abc",
+    "role": "ADMIN",
+    "expired": "2025-11-01T00:00:00Z"
+  }
 ]
