@@ -1,4 +1,18 @@
 [
-  {"username":"fanz","key":"secret123","role":"VIP","expired":"2025-12-31T23:59:59Z","deviceId":""},
-  {"username":"user2","password":"abc","role":"ADMIN","expired":"2025-10-15T00:00:00Z","deviceId":""}
+  {
+    "username": "fanz",
+    "password": "fanz123",
+    "role": "ADMIN",
+    "expired": "30d",
+    "deviceId": "dev-1a2b3c4d",
+    "createdAt": 1695091200000
+  },
+  {
+    "username": "user1",
+    "password": "pass123",
+    "role": "USER",
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1696000000000
+  }
 ]
