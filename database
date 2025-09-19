@@ -12,7 +12,7 @@
     "password": "pass123",
     "role": "USER",
     "expired": "",
-    "deviceId": null,
+    "deviceId": "dev-184e004b",
     "createdAt": 1696000000000
   }
 ]
