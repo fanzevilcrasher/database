@@ -64,5 +64,13 @@
     "expired": "2d",
     "deviceId": null,
     "createdAt": 1758368362332
+  },
+  {
+    "username": "vyd",
+    "password": "vyd123",
+    "role": "USER",
+    "expired": "1d",
+    "deviceId": null,
+    "createdAt": 1758370519006
   }
 ]
