@@ -72,5 +72,13 @@
     "expired": "",
     "deviceId": null,
     "createdAt": 1758383343031
+  },
+  {
+    "username": "sanzy",
+    "password": "sanzy",
+    "role": "USER",
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1758383914564
   }
 ]
