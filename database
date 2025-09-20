@@ -64,5 +64,13 @@
     "expired": "",
     "deviceId": null,
     "createdAt": 1758383315242
+  },
+  {
+    "username": "denixxx",
+    "password": "denix1234",
+    "role": "USER",
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1758383343031
   }
 ]
