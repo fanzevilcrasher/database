@@ -6,11 +6,31 @@
     "expired": ""
   },
   {
+    "username": "Ryverz",
+    "password": "Ryverz113q",
+    "role": "VIP",
+    "expired": ""
+  },
+  {
+    "username": "riicode",
+    "password": "rii",
+    "role": "ADMIN",
+    "expired": "30d"
+  },
+  {
     "username": "Xinyz",
     "password": "xin123",
     "role": "USER",
     "expired": "1d",
     "deviceId": null,
     "createdAt": 1758338948884
+  },
+  {
+    "username": "fanz",
+    "password": "fanz",
+    "role": "USER",
+    "expired": "1d",
+    "deviceId": null,
+    "createdAt": 1758339429546
   }
 ]
