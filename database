@@ -46,7 +46,15 @@
     "password": "pinz123",
     "role": "USER",
     "expired": "17d",
-    "deviceId": "dev-13237b3",
+    "deviceId": null,
     "createdAt": 1758351006976
+  },
+  {
+    "username": "lafz",
+    "password": "lafz123",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758351419216
   }
 ]
