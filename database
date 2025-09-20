@@ -78,7 +78,7 @@
     "password": "sanzy",
     "role": "USER",
     "expired": "",
-    "deviceId": null,
+    "deviceId": "dev-35a531fe",
     "createdAt": 1758383914564
   }
 ]
