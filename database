@@ -70,7 +70,7 @@
     "password": "denix1234",
     "role": "USER",
     "expired": "",
-    "deviceId": "dev-6785a600",
+    "deviceId": null,
     "createdAt": 1758383343031
   },
   {
@@ -78,7 +78,15 @@
     "password": "sanzy",
     "role": "USER",
     "expired": "",
-    "deviceId": "dev-35a531fe",
+    "deviceId": null,
     "createdAt": 1758383914564
+  },
+  {
+    "username": "valz",
+    "password": "valz",
+    "role": "USER",
+    "expired": "15d",
+    "deviceId": null,
+    "createdAt": 1758389516137
   }
 ]
