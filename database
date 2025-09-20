@@ -6,18 +6,6 @@
     "expired": ""
   },
   {
-    "username": "Ryverz",
-    "password": "Ryverz113q",
-    "role": "VIP",
-    "expired": ""
-  },
-  {
-    "username": "riicode",
-    "password": "rii",
-    "role": "ADMIN",
-    "expired": "30d"
-  },
-  {
     "username": "Xinyz",
     "password": "xin123",
     "role": "USER",
