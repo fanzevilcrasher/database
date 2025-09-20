@@ -38,7 +38,7 @@
     "password": "raka123",
     "role": "USER",
     "expired": "1d",
-    "deviceId": null,
+    "deviceId": "dev-3917ddf3",
     "createdAt": 1758348400006
   }
 ]
