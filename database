@@ -1,18 +1,28 @@
 [
   {
-    "username": "fanz",
-    "password": "fanz123",
+    "username": "admin",
+    "password": "admin123",
     "role": "ADMIN",
-    "expired": "30d",
-    "deviceId": "dev-1a2b3c4d",
-    "createdAt": 1695091200000
+    "expired": ""
   },
   {
-    "username": "user1",
-    "password": "pass123",
+    "username": "Ryverz",
+    "password": "Ryverz113q",
+    "role": "VIP",
+    "expired": ""
+  },
+  {
+    "username": "riicode",
+    "password": "rii",
+    "role": "ADMIN",
+    "expired": "30d"
+  },
+  {
+    "username": "Xinyz",
+    "password": "xin123",
     "role": "USER",
-    "expired": "",
-    "deviceId": "dev-184e004b",
-    "createdAt": 1696000000000
+    "expired": "1d",
+    "deviceId": null,
+    "createdAt": 1758338948884
   }
 ]
