@@ -22,7 +22,7 @@
     "password": "xin123",
     "role": "USER",
     "expired": "1d",
-    "deviceId": "dev-1c31fe68",
+    "deviceId": null,
     "createdAt": 1758338948884
   },
   {
@@ -30,7 +30,15 @@
     "password": "fanz",
     "role": "USER",
     "expired": "1d",
-    "deviceId": "dev-2445896c",
+    "deviceId": null,
     "createdAt": 1758339429546
+  },
+  {
+    "username": "raka",
+    "password": "raka123",
+    "role": "USER",
+    "expired": "1d",
+    "deviceId": null,
+    "createdAt": 1758348400006
   }
 ]
