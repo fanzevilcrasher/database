@@ -22,7 +22,7 @@
     "password": "xin123",
     "role": "USER",
     "expired": "1d",
-    "deviceId": null,
+    "deviceId": "dev-79345599",
     "createdAt": 1758338948884
   },
   {
