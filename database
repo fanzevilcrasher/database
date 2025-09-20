@@ -22,7 +22,7 @@
     "password": "xin123",
     "role": "USER",
     "expired": "1d",
-    "deviceId": "dev-79345599",
+    "deviceId": null,
     "createdAt": 1758338948884
   },
   {
@@ -32,14 +32,6 @@
     "expired": "1d",
     "deviceId": null,
     "createdAt": 1758339429546
-  },
-  {
-    "username": "raka",
-    "password": "raka123",
-    "role": "USER",
-    "expired": "1d",
-    "deviceId": null,
-    "createdAt": 1758348400006
   },
   {
     "username": "pinz",
@@ -66,11 +58,11 @@
     "createdAt": 1758368362332
   },
   {
-    "username": "vyd",
-    "password": "vyd123",
+    "username": "denix",
+    "password": "denix123",
     "role": "USER",
-    "expired": "1d",
-    "deviceId": "dev-1eb0fe6c",
-    "createdAt": 1758370519006
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1758383315242
   }
 ]
