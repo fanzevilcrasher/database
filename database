@@ -70,7 +70,7 @@
     "password": "vyd123",
     "role": "USER",
     "expired": "1d",
-    "deviceId": null,
+    "deviceId": "dev-1eb0fe6c",
     "createdAt": 1758370519006
   }
 ]
