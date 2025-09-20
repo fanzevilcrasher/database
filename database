@@ -70,7 +70,7 @@
     "password": "denix1234",
     "role": "USER",
     "expired": "",
-    "deviceId": null,
+    "deviceId": "dev-6785a600",
     "createdAt": 1758383343031
   },
   {
