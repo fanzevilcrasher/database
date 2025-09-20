@@ -3,8 +3,7 @@
     "username": "admin",
     "password": "admin123",
     "role": "ADMIN",
-    "expired": "",
-    "deviceId": "dev-6f2d9df4"
+    "expired": ""
   },
   {
     "username": "Ryverz",
@@ -23,7 +22,7 @@
     "password": "xin123",
     "role": "USER",
     "expired": "1d",
-    "deviceId": null,
+    "deviceId": "dev-1c31fe68",
     "createdAt": 1758338948884
   },
   {
