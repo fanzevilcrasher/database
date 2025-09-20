@@ -46,7 +46,7 @@
     "password": "pinz123",
     "role": "USER",
     "expired": "17d",
-    "deviceId": null,
+    "deviceId": "dev-13237b3",
     "createdAt": 1758351006976
   }
 ]
