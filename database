@@ -38,7 +38,15 @@
     "password": "raka123",
     "role": "USER",
     "expired": "1d",
-    "deviceId": "dev-3917ddf3",
+    "deviceId": null,
     "createdAt": 1758348400006
+  },
+  {
+    "username": "pinz",
+    "password": "pinz123",
+    "role": "USER",
+    "expired": "17d",
+    "deviceId": null,
+    "createdAt": 1758351006976
   }
 ]
