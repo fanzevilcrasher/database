@@ -134,7 +134,7 @@
     "password": "yanz",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-4b65dc8b",
     "createdAt": 1758436002287
   }
 ]
