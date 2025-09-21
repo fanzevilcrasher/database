@@ -110,7 +110,7 @@
     "password": "nasgor",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-659342ed",
     "createdAt": 1758424703465
   }
 ]
