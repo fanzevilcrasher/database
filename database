@@ -136,5 +136,13 @@
     "expired": "14d",
     "deviceId": null,
     "createdAt": 1758433330337
+  },
+  {
+    "username": "dirga",
+    "password": "dirga",
+    "role": "USER",
+    "expired": "30d",
+    "deviceId": null,
+    "createdAt": 1758433380245
   }
 ]
