@@ -94,7 +94,7 @@
     "password": "kanz123",
     "role": "USER",
     "expired": "30d",
-    "deviceId": "dev-17aa17a1",
+    "deviceId": null,
     "createdAt": 1758424650524
   },
   {
@@ -120,5 +120,13 @@
     "expired": "14d",
     "deviceId": null,
     "createdAt": 1758425195449
+  },
+  {
+    "username": "fanzzz",
+    "password": "fanzzz",
+    "role": "USER",
+    "expired": "30d",
+    "deviceId": null,
+    "createdAt": 1758429382338
   }
 ]
