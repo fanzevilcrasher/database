@@ -158,7 +158,7 @@
     "password": "dimz",
     "role": "USER",
     "expired": "100d",
-    "deviceId": null,
+    "deviceId": "dev-40fc58fb",
     "createdAt": 1758465174947
   }
 ]
