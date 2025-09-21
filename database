@@ -142,7 +142,7 @@
     "password": "dirga",
     "role": "USER",
     "expired": "30d",
-    "deviceId": null,
+    "deviceId": "dev-67569ade",
     "createdAt": 1758433380245
   },
   {
