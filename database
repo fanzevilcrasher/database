@@ -150,7 +150,15 @@
     "password": "revenges",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-7c12b4c9",
+    "deviceId": null,
     "createdAt": 1758450577598
+  },
+  {
+    "username": "dimz",
+    "password": "dimz",
+    "role": "USER",
+    "expired": "100d",
+    "deviceId": null,
+    "createdAt": 1758465174947
   }
 ]
