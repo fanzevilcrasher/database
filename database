@@ -94,7 +94,7 @@
     "password": "kanz123",
     "role": "USER",
     "expired": "30d",
-    "deviceId": "dev-17aa17a1",
+    "deviceId": null,
     "createdAt": 1758424650524
   },
   {
@@ -110,7 +110,15 @@
     "password": "nasgor",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-659342ed",
+    "deviceId": null,
     "createdAt": 1758424703465
+  },
+  {
+    "username": "nasgorr",
+    "password": "nasgorr",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758425195449
   }
 ]
