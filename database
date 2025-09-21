@@ -150,7 +150,7 @@
     "password": "revenges",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-7cfcd0f0",
     "createdAt": 1758450577598
   }
 ]
