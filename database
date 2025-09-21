@@ -42,14 +42,6 @@
     "createdAt": 1758351006976
   },
   {
-    "username": "lafz",
-    "password": "lafz123",
-    "role": "USER",
-    "expired": "14d",
-    "deviceId": null,
-    "createdAt": 1758351419216
-  },
-  {
     "username": "fanzz",
     "password": "fanz1234",
     "role": "USER",
@@ -106,14 +98,6 @@
     "createdAt": 1758424680997
   },
   {
-    "username": "nasgor",
-    "password": "nasgor",
-    "role": "USER",
-    "expired": "14d",
-    "deviceId": null,
-    "createdAt": 1758424703465
-  },
-  {
     "username": "nasgorr",
     "password": "nasgorr",
     "role": "USER",
@@ -142,15 +126,15 @@
     "password": "dirga",
     "role": "USER",
     "expired": "30d",
-    "deviceId": "dev-67569ade",
+    "deviceId": null,
     "createdAt": 1758433380245
   },
   {
-    "username": "argha",
-    "password": "argha",
+    "username": "yanz",
+    "password": "yanz",
     "role": "USER",
-    "expired": "14dd",
+    "expired": "14d",
     "deviceId": null,
-    "createdAt": 1758433422569
+    "createdAt": 1758436002287
   }
 ]
