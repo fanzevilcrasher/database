@@ -78,7 +78,7 @@
     "password": "valz",
     "role": "USER",
     "expired": "15d",
-    "deviceId": "dev-7677c982",
+    "deviceId": null,
     "createdAt": 1758389516137
   },
   {
@@ -134,7 +134,15 @@
     "password": "yanz",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-4b65dc8b",
+    "deviceId": null,
     "createdAt": 1758436002287
+  },
+  {
+    "username": "xpoit",
+    "password": "xpoit",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758447560094
   }
 ]
