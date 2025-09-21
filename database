@@ -94,7 +94,7 @@
     "password": "kanz123",
     "role": "USER",
     "expired": "30d",
-    "deviceId": null,
+    "deviceId": "dev-17aa17a1",
     "createdAt": 1758424650524
   },
   {
@@ -102,7 +102,7 @@
     "password": "Ruiz123",
     "role": "USER",
     "expired": "30d",
-    "deviceId": "dev-3954cfc6",
+    "deviceId": null,
     "createdAt": 1758424680997
   },
   {
