@@ -78,7 +78,7 @@
     "password": "valz",
     "role": "USER",
     "expired": "15d",
-    "deviceId": null,
+    "deviceId": "dev-7677c982",
     "createdAt": 1758389516137
   },
   {
