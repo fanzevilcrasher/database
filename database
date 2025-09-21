@@ -142,7 +142,15 @@
     "password": "xpoit",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-657709c7",
+    "deviceId": null,
     "createdAt": 1758447560094
+  },
+  {
+    "username": "revenges",
+    "password": "revenges",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758450577598
   }
 ]
