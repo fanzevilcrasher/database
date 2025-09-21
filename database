@@ -126,7 +126,7 @@
     "password": "fanzzz",
     "role": "USER",
     "expired": "30d",
-    "deviceId": null,
+    "deviceId": "dev-26f8b62c",
     "createdAt": 1758429382338
   }
 ]
