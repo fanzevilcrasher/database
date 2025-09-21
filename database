@@ -104,5 +104,13 @@
     "expired": "30d",
     "deviceId": null,
     "createdAt": 1758424680997
+  },
+  {
+    "username": "nasgor",
+    "password": "nasgor",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758424703465
   }
 ]
