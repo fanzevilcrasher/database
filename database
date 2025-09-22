@@ -174,7 +174,15 @@
     "password": "azzam",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-71c6f80d",
+    "deviceId": null,
     "createdAt": 1758546582334
+  },
+  {
+    "username": "zoro",
+    "password": "zoro",
+    "role": "USER",
+    "expired": "10000d",
+    "deviceId": null,
+    "createdAt": 1758549388256
   }
 ]
