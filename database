@@ -138,27 +138,19 @@
     "createdAt": 1758436002287
   },
   {
-    "username": "xpoit",
-    "password": "xpoit",
-    "role": "USER",
-    "expired": "14d",
-    "deviceId": null,
-    "createdAt": 1758447560094
-  },
-  {
-    "username": "revenges",
-    "password": "revenges",
-    "role": "USER",
-    "expired": "14d",
-    "deviceId": null,
-    "createdAt": 1758450577598
-  },
-  {
     "username": "dimz",
     "password": "dimz",
     "role": "USER",
     "expired": "100d",
-    "deviceId": "dev-40fc58fb",
+    "deviceId": null,
     "createdAt": 1758465174947
+  },
+  {
+    "username": "alpa",
+    "password": "alpa",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758521092210
   }
 ]
