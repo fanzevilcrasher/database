@@ -158,7 +158,15 @@
     "password": "Jawa7777",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-2231212",
+    "deviceId": null,
     "createdAt": 1758529148400
+  },
+  {
+    "username": "jembud",
+    "password": "jembud",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758537324267
   }
 ]
