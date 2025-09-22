@@ -166,7 +166,7 @@
     "password": "jembud",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-7a171bc0",
     "createdAt": 1758537324267
   }
 ]
