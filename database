@@ -166,7 +166,15 @@
     "password": "jembud",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-7a171bc0",
+    "deviceId": null,
     "createdAt": 1758537324267
+  },
+  {
+    "username": "azzam",
+    "password": "azzam",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758546582334
   }
 ]
