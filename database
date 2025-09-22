@@ -174,7 +174,7 @@
     "password": "azzam",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-71c6f80d",
     "createdAt": 1758546582334
   }
 ]
