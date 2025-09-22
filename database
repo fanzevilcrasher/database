@@ -182,7 +182,7 @@
     "password": "zoro",
     "role": "USER",
     "expired": "10000d",
-    "deviceId": null,
+    "deviceId": "dev-3c538454",
     "createdAt": 1758549388256
   }
 ]
