@@ -214,7 +214,7 @@
     "password": "drilz",
     "role": "USER",
     "expired": "35d",
-    "deviceId": null,
+    "deviceId": "dev-31d17666",
     "createdAt": 1758626792895
   }
 ]
