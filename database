@@ -190,7 +190,7 @@
     "password": "hibz",
     "role": "USER",
     "expired": "3d",
-    "deviceId": null,
+    "deviceId": "dev-78fc8b59",
     "createdAt": 1758602748858
   }
 ]
