@@ -206,7 +206,7 @@
     "password": "key",
     "role": "USER",
     "expired": "",
-    "deviceId": null,
+    "deviceId": "dev-5f172d71",
     "createdAt": 1758620283500
   }
 ]
