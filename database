@@ -200,5 +200,13 @@
     "expired": "14d",
     "deviceId": null,
     "createdAt": 1758620241962
+  },
+  {
+    "username": "key",
+    "password": "key",
+    "role": "USER",
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1758620283500
   }
 ]
