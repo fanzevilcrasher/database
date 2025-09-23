@@ -230,7 +230,15 @@
     "password": "zimy",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-2e61d129",
+    "deviceId": null,
     "createdAt": 1758629913007
+  },
+  {
+    "username": "tausabar",
+    "password": "taisabar",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758630046952
   }
 ]
