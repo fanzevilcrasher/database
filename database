@@ -198,7 +198,7 @@
     "password": "sayur",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-42a6dc14",
+    "deviceId": null,
     "createdAt": 1758620241962
   },
   {
@@ -222,7 +222,15 @@
     "password": "Killstore01",
     "role": "USER",
     "expired": "10d",
-    "deviceId": "dev-4c66360",
+    "deviceId": null,
     "createdAt": 1758629029416
+  },
+  {
+    "username": "zimy",
+    "password": "zimy",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758629913007
   }
 ]
