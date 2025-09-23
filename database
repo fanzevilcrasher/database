@@ -238,7 +238,7 @@
     "password": "taisabar",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-4ef5751",
     "createdAt": 1758630046952
   }
 ]
