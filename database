@@ -3,8 +3,7 @@
     "username": "admin",
     "password": "admin123",
     "role": "ADMIN",
-    "expired": "",
-    "deviceId": "dev-4713fc78"
+    "expired": ""
   },
   {
     "username": "Ryverz",
@@ -151,7 +150,7 @@
     "password": "alpa",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-1f3ebc56",
+    "deviceId": null,
     "createdAt": 1758521092210
   },
   {
@@ -191,7 +190,15 @@
     "password": "hibz",
     "role": "USER",
     "expired": "3d",
-    "deviceId": "dev-78fc8b59",
+    "deviceId": null,
     "createdAt": 1758602748858
+  },
+  {
+    "username": "sayur",
+    "password": "sayur",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758620241962
   }
 ]
