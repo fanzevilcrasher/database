@@ -230,7 +230,7 @@
     "password": "zimy",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-2e61d129",
     "createdAt": 1758629913007
   }
 ]
