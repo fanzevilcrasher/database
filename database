@@ -214,7 +214,15 @@
     "password": "drilz",
     "role": "USER",
     "expired": "35d",
-    "deviceId": "dev-31d17666",
+    "deviceId": null,
     "createdAt": 1758626792895
+  },
+  {
+    "username": "Killstore",
+    "password": "Killstore01",
+    "role": "USER",
+    "expired": "10d",
+    "deviceId": null,
+    "createdAt": 1758629029416
   }
 ]
