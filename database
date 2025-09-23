@@ -1,10 +1,10 @@
 [
   {
-    "username": "admin",
+    "username": "fanz",
     "password": "admin123",
     "role": "ADMIN",
     "expired": "",
-    "deviceId": "dev-4713fc78"
+    "deviceId": ""
   },
   {
     "username": "Ryverz",
