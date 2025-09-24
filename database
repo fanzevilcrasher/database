@@ -246,7 +246,7 @@
     "password": "001",
     "role": "USER",
     "expired": "7d",
-    "deviceId": "dev-5e2288a7",
+    "deviceId": null,
     "createdAt": 1758711242319
   },
   {
@@ -254,7 +254,7 @@
     "password": "wild",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-29911f46",
     "createdAt": 1758711321393
   }
 ]
