@@ -248,5 +248,13 @@
     "expired": "7d",
     "deviceId": null,
     "createdAt": 1758711242319
+  },
+  {
+    "username": "wild",
+    "password": "wild",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758711321393
   }
 ]
