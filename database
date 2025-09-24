@@ -242,11 +242,11 @@
     "createdAt": 1758630046952
   },
   {
-    "username": "001",
-    "password": "binz",
+    "username": "binz",
+    "password": "001",
     "role": "USER",
-    "expired": "",
+    "expired": "7d",
     "deviceId": null,
-    "createdAt": 1758711091411
+    "createdAt": 1758711242319
   }
 ]
