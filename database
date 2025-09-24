@@ -246,7 +246,7 @@
     "password": "001",
     "role": "USER",
     "expired": "7d",
-    "deviceId": null,
+    "deviceId": "dev-5e2288a7",
     "createdAt": 1758711242319
   },
   {
