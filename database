@@ -286,7 +286,7 @@
     "password": "100d",
     "role": "USER",
     "expired": "",
-    "deviceId": null,
+    "deviceId": "dev-409f8a9",
     "createdAt": 1758813660502
   }
 ]
