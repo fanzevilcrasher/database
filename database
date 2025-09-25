@@ -190,7 +190,7 @@
     "password": "hibz",
     "role": "USER",
     "expired": "3d",
-    "deviceId": "dev-27901ade",
+    "deviceId": null,
     "createdAt": 1758602748858
   },
   {
@@ -198,7 +198,7 @@
     "password": "sayur",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-1fa65eef",
+    "deviceId": null,
     "createdAt": 1758620241962
   },
   {
@@ -270,7 +270,15 @@
     "password": "Olan",
     "role": "USER",
     "expired": "10000d",
-    "deviceId": "dev-5aa6f3f2",
+    "deviceId": null,
     "createdAt": 1758791255772
+  },
+  {
+    "username": "xemox",
+    "password": "xemox",
+    "role": "USER",
+    "expired": "17d",
+    "deviceId": null,
+    "createdAt": 1758806634002
   }
 ]
