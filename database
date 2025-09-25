@@ -277,8 +277,8 @@
     "username": "xemox",
     "password": "xemox",
     "role": "USER",
-    "expired": "17d",
-    "deviceId": "dev-fe5ee8b",
-    "createdAt": 1758806634002
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1758806981583
   }
 ]
