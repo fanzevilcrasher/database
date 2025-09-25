@@ -254,7 +254,15 @@
     "password": "wild",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-29911f46",
+    "deviceId": null,
     "createdAt": 1758711321393
+  },
+  {
+    "username": "dexxzo",
+    "password": "dexxzo",
+    "role": "USER",
+    "expired": "17d",
+    "deviceId": null,
+    "createdAt": 1758788091069
   }
 ]
