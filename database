@@ -302,7 +302,7 @@
     "password": "vicky",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-6b94c56f",
     "createdAt": 1758872385504
   },
   {
