@@ -302,7 +302,7 @@
     "password": "vicky",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-6b94c56f",
+    "deviceId": null,
     "createdAt": 1758872385504
   },
   {
@@ -310,7 +310,15 @@
     "password": "radit",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-6822d4b3",
+    "deviceId": null,
     "createdAt": 1758874617549
+  },
+  {
+    "username": "ditz",
+    "password": "ditz",
+    "role": "USER",
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1758882686645
   }
 ]
