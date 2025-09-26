@@ -286,7 +286,15 @@
     "password": "100d",
     "role": "USER",
     "expired": "",
-    "deviceId": "dev-409f8a9",
+    "deviceId": null,
     "createdAt": 1758813660502
+  },
+  {
+    "username": "xiinz",
+    "password": "xiinz",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758866750777
   }
 ]
