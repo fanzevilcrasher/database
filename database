@@ -294,7 +294,7 @@
     "password": "xiinz",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-3b444743",
     "createdAt": 1758866750777
   }
 ]
