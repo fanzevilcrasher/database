@@ -318,7 +318,7 @@
     "password": "ditz",
     "role": "USER",
     "expired": "",
-    "deviceId": null,
+    "deviceId": "dev-342641f3",
     "createdAt": 1758882686645
   }
 ]
