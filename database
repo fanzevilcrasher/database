@@ -304,5 +304,13 @@
     "expired": "14d",
     "deviceId": null,
     "createdAt": 1758872385504
+  },
+  {
+    "username": "radit",
+    "password": "radit",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1758874617549
   }
 ]
