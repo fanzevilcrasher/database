@@ -302,7 +302,7 @@
     "password": "Xemoxz",
     "role": "USER",
     "expired": "",
-    "deviceId": null,
+    "deviceId": "dev-6a68d2e3",
     "createdAt": 1758869349692
   }
 ]
