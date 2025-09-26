@@ -310,7 +310,7 @@
     "password": "radit",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-6822d4b3",
     "createdAt": 1758874617549
   },
   {
