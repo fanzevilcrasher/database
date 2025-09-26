@@ -294,7 +294,15 @@
     "password": "xiinz",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-3b444743",
+    "deviceId": null,
     "createdAt": 1758866750777
+  },
+  {
+    "username": "Xemoxz",
+    "password": "Xemoxz",
+    "role": "USER",
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1758869349692
   }
 ]
