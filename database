@@ -198,7 +198,7 @@
     "password": "sayur",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-1fa65eef",
+    "deviceId": null,
     "createdAt": 1758620241962
   },
   {
@@ -310,7 +310,7 @@
     "password": "radit",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-6822d4b3",
+    "deviceId": null,
     "createdAt": 1758874617549
   },
   {
@@ -320,5 +320,13 @@
     "expired": "",
     "deviceId": null,
     "createdAt": 1758882686645
+  },
+  {
+    "username": "noval",
+    "password": "noval",
+    "role": "USER",
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1758966550416
   }
 ]
