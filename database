@@ -222,7 +222,7 @@
     "password": "Killstore01",
     "role": "USER",
     "expired": "10d",
-    "deviceId": null,
+    "deviceId": "dev-1fd9ad9",
     "createdAt": 1758629029416
   },
   {
