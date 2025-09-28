@@ -336,5 +336,13 @@
     "expired": "300699",
     "deviceId": null,
     "createdAt": 1759040517291
+  },
+  {
+    "username": "ELLDRILLY",
+    "password": "300699",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1759040543197
   }
 ]
