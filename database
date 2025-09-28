@@ -60,7 +60,7 @@
     "password": "Rio",
     "role": "USER",
     "expired": "8h",
-    "deviceId": "dev-39cfa8b",
+    "deviceId": null,
     "createdAt": 1759063893783
   },
   {
@@ -70,5 +70,13 @@
     "expired": "14d",
     "deviceId": null,
     "createdAt": 1759066546539
+  },
+  {
+    "username": "yan",
+    "password": "yan123",
+    "role": "USER",
+    "expired": "perm",
+    "deviceId": null,
+    "createdAt": 1759070230322
   }
 ]
