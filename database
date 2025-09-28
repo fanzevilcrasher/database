@@ -12,7 +12,15 @@
     "password": "jay",
     "role": "USER",
     "expired": "17",
-    "deviceId": "dev-2cb17ed5",
+    "deviceId": null,
     "createdAt": 1759050631211
+  },
+  {
+    "username": "olanadmin",
+    "password": "olanadmin",
+    "role": "USER",
+    "expired": "90000000d",
+    "deviceId": null,
+    "createdAt": 1759053650732
   }
 ]
