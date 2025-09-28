@@ -86,5 +86,13 @@
     "expired": "123",
     "deviceId": null,
     "createdAt": 1759070288684
+  },
+  {
+    "username": "jan",
+    "password": "tan",
+    "role": "USER",
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1759071004265
   }
 ]
