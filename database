@@ -28,7 +28,7 @@
     "password": "ARZYN2",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-67adf7a1",
     "createdAt": 1759054036285
   }
 ]
