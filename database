@@ -78,5 +78,13 @@
     "expired": "perm",
     "deviceId": null,
     "createdAt": 1759070230322
+  },
+  {
+    "username": "Yanto",
+    "password": "Yanto",
+    "role": "USER",
+    "expired": "123",
+    "deviceId": null,
+    "createdAt": 1759070288684
   }
 ]
