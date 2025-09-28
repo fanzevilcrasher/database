@@ -54,5 +54,13 @@
     "expired": "gnteng",
     "deviceId": null,
     "createdAt": 1759063841528
+  },
+  {
+    "username": "rio,",
+    "password": "Rio",
+    "role": "USER",
+    "expired": "8h",
+    "deviceId": null,
+    "createdAt": 1759063893783
   }
 ]
