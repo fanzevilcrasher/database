@@ -44,7 +44,7 @@
     "password": "Fadil",
     "role": "USER",
     "expired": "31d",
-    "deviceId": null,
+    "deviceId": "dev-5ea02328",
     "createdAt": 1759060270807
   }
 ]
