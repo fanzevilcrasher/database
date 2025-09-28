@@ -22,5 +22,13 @@
     "expired": "90000000d",
     "deviceId": null,
     "createdAt": 1759053650732
+  },
+  {
+    "username": "ARZYN",
+    "password": "ARZYN2",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1759054036285
   }
 ]
