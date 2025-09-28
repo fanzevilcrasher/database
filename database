@@ -20,7 +20,7 @@
     "password": "olanadmin",
     "role": "USER",
     "expired": "90000000d",
-    "deviceId": "dev-758df0f7",
+    "deviceId": null,
     "createdAt": 1759053650732
   },
   {
@@ -28,7 +28,15 @@
     "password": "ARZYN2",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-67adf7a1",
+    "deviceId": null,
     "createdAt": 1759054036285
+  },
+  {
+    "username": "aanak",
+    "password": "kontol",
+    "role": "USER",
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1759060139583
   }
 ]
