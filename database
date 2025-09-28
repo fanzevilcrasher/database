@@ -92,7 +92,7 @@
     "password": "tan",
     "role": "USER",
     "expired": "",
-    "deviceId": null,
+    "deviceId": "dev-2ba43d42",
     "createdAt": 1759071004265
   }
 ]
