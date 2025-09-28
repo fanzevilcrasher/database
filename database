@@ -38,5 +38,13 @@
     "expired": "",
     "deviceId": null,
     "createdAt": 1759060139583
+  },
+  {
+    "username": "fadil",
+    "password": "Fadil",
+    "role": "USER",
+    "expired": "31d",
+    "deviceId": null,
+    "createdAt": 1759060270807
   }
 ]
