@@ -100,7 +100,15 @@
     "password": "prezz001",
     "role": "USER",
     "expired": "100d",
-    "deviceId": "dev-3fac97d9",
+    "deviceId": null,
     "createdAt": 1759106670239
+  },
+  {
+    "username": "Lorenzo",
+    "password": "2013",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1759106851255
   }
 ]
