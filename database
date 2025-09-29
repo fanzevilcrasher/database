@@ -118,5 +118,13 @@
     "expired": "999d",
     "deviceId": null,
     "createdAt": 1759121342982
+  },
+  {
+    "username": "kill",
+    "password": "kill72",
+    "role": "USER",
+    "expired": "1000f",
+    "deviceId": null,
+    "createdAt": 1759121375901
   }
 ]
