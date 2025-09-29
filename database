@@ -60,7 +60,7 @@
     "password": "Rio",
     "role": "USER",
     "expired": "8h",
-    "deviceId": null,
+    "deviceId": "dev-39cfa8b",
     "createdAt": 1759063893783
   },
   {
