@@ -198,5 +198,13 @@
     "expired": "jembut",
     "deviceId": null,
     "createdAt": 1759148931961
+  },
+  {
+    "username": "bubu",
+    "password": "(14d)",
+    "role": "USER",
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1759148976705
   }
 ]
