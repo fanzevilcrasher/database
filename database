@@ -132,7 +132,7 @@
     "password": "Wijaya12345",
     "role": "USER",
     "expired": "14d",
-    "deviceId": null,
+    "deviceId": "dev-6e1d7a44",
     "createdAt": 1759127252792
   }
 ]
