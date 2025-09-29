@@ -206,5 +206,13 @@
     "expired": "",
     "deviceId": null,
     "createdAt": 1759148976705
+  },
+  {
+    "username": "Asep",
+    "password": "zep",
+    "role": "USER",
+    "expired": "1d",
+    "deviceId": null,
+    "createdAt": 1759153697003
   }
 ]
