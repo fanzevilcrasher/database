@@ -116,7 +116,7 @@
     "password": "ruiz123",
     "role": "USER",
     "expired": "999d",
-    "deviceId": null,
+    "deviceId": "dev-6c80e77f",
     "createdAt": 1759121342982
   },
   {
