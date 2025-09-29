@@ -220,7 +220,15 @@
     "password": "rulz13",
     "role": "USER",
     "expired": "member",
-    "deviceId": "dev-1ef7ddc3",
+    "deviceId": null,
     "createdAt": 1759156434769
+  },
+  {
+    "username": "dapzy",
+    "password": "dapzy23",
+    "role": "USER",
+    "expired": "owner",
+    "deviceId": null,
+    "createdAt": 1759157588252
   }
 ]
