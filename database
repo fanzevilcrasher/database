@@ -140,7 +140,7 @@
     "password": "sarzz320",
     "role": "USER",
     "expired": "30d",
-    "deviceId": null,
+    "deviceId": "dev-1b80c887",
     "createdAt": 1759127603420
   }
 ]
