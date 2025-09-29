@@ -108,7 +108,7 @@
     "password": "2013",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-36156638",
+    "deviceId": null,
     "createdAt": 1759106851255
   },
   {
@@ -116,7 +116,7 @@
     "password": "ruiz123",
     "role": "USER",
     "expired": "999d",
-    "deviceId": "dev-6c80e77f",
+    "deviceId": null,
     "createdAt": 1759121342982
   },
   {
@@ -126,5 +126,13 @@
     "expired": "1000f",
     "deviceId": null,
     "createdAt": 1759121375901
+  },
+  {
+    "username": "Wijaya",
+    "password": "Wijaya12345",
+    "role": "USER",
+    "expired": "14d",
+    "deviceId": null,
+    "createdAt": 1759127252792
   }
 ]
