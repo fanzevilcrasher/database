@@ -166,5 +166,13 @@
     "expired": "",
     "deviceId": null,
     "createdAt": 1759131885201
+  },
+  {
+    "username": "nopan",
+    "password": "30d",
+    "role": "USER",
+    "expired": "",
+    "deviceId": null,
+    "createdAt": 1759131943307
   }
 ]
