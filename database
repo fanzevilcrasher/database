@@ -100,7 +100,7 @@
     "password": "prezz001",
     "role": "USER",
     "expired": "100d",
-    "deviceId": "dev-3fac97d9",
+    "deviceId": null,
     "createdAt": 1759106670239
   },
   {
@@ -108,7 +108,15 @@
     "password": "2013",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-36156638",
+    "deviceId": null,
     "createdAt": 1759106851255
+  },
+  {
+    "username": "ruiz",
+    "password": "ruiz123",
+    "role": "USER",
+    "expired": "999d",
+    "deviceId": null,
+    "createdAt": 1759121342982
   }
 ]
