@@ -172,7 +172,7 @@
     "password": "30d",
     "role": "USER",
     "expired": "",
-    "deviceId": "dev-31b3771e",
+    "deviceId": null,
     "createdAt": 1759131943307
   },
   {
@@ -204,7 +204,7 @@
     "password": "(14d)",
     "role": "USER",
     "expired": "",
-    "deviceId": "dev-7cfb1848",
+    "deviceId": null,
     "createdAt": 1759148976705
   },
   {
@@ -214,5 +214,13 @@
     "expired": "1d",
     "deviceId": null,
     "createdAt": 1759153697003
+  },
+  {
+    "username": "rulz",
+    "password": "rulz13",
+    "role": "USER",
+    "expired": "member",
+    "deviceId": null,
+    "createdAt": 1759156434769
   }
 ]
