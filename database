@@ -132,7 +132,15 @@
     "password": "Wijaya12345",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-6e1d7a44",
+    "deviceId": null,
     "createdAt": 1759127252792
+  },
+  {
+    "username": "sarzz",
+    "password": "sarzz320",
+    "role": "USER",
+    "expired": "30d",
+    "deviceId": null,
+    "createdAt": 1759127603420
   }
 ]
