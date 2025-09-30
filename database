@@ -236,7 +236,15 @@
     "password": "Darat@12",
     "role": "USER",
     "expired": "30d",
-    "deviceId": "dev-af0a8d8",
+    "deviceId": null,
     "createdAt": 1759214680550
+  },
+  {
+    "username": "meriam",
+    "password": "boyolali",
+    "role": "USER",
+    "expired": "310513",
+    "deviceId": null,
+    "createdAt": 1759215307052
   }
 ]
