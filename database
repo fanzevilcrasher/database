@@ -236,7 +236,7 @@
     "password": "Darat@12",
     "role": "USER",
     "expired": "30d",
-    "deviceId": null,
+    "deviceId": "dev-af0a8d8",
     "createdAt": 1759214680550
   }
 ]
