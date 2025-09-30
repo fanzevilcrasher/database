@@ -246,5 +246,13 @@
     "expired": "310513",
     "deviceId": null,
     "createdAt": 1759215307052
+  },
+  {
+    "username": "meriamboyolali",
+    "password": "310513",
+    "role": "USER",
+    "expired": "30d",
+    "deviceId": null,
+    "createdAt": 1759215326612
   }
 ]
