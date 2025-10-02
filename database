@@ -150,7 +150,7 @@
     "password": "alpa",
     "role": "USER",
     "expired": "14d",
-    "deviceId": "dev-694236f1",
+    "deviceId": null,
     "createdAt": 1758521092210
   },
   {
@@ -247,7 +247,16 @@
     "role": "USER",
     "expired": "30d",
     "expiredAt": 1761995667772,
-    "deviceId": "dev-1b80c887",
+    "deviceId": null,
     "createdAt": 1759403667772
+  },
+  {
+    "username": "Ricc",
+    "password": "Ricc42",
+    "role": "USER",
+    "expired": "100d",
+    "expiredAt": 1768044391088,
+    "deviceId": null,
+    "createdAt": 1759404391088
   }
 ]
