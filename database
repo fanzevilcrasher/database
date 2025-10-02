@@ -256,7 +256,7 @@
     "role": "USER",
     "expired": "100d",
     "expiredAt": 1768044391088,
-    "deviceId": "dev-5b833147",
+    "deviceId": null,
     "createdAt": 1759404391088
   },
   {
@@ -285,5 +285,14 @@
     "expiredAt": 1760701284765,
     "deviceId": null,
     "createdAt": 1759405284765
+  },
+  {
+    "username": "Aditya",
+    "password": "aditya123",
+    "role": "USER",
+    "expired": "14d",
+    "expiredAt": 1760615292662,
+    "deviceId": null,
+    "createdAt": 1759405692662
   }
 ]
