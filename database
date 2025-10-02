@@ -256,7 +256,7 @@
     "role": "USER",
     "expired": "100d",
     "expiredAt": 1768044391088,
-    "deviceId": "dev-5b833147",
+    "deviceId": null,
     "createdAt": 1759404391088
   },
   {
@@ -292,7 +292,16 @@
     "role": "USER",
     "expired": "14d",
     "expiredAt": 1760615292662,
-    "deviceId": "dev-3579d566",
+    "deviceId": null,
     "createdAt": 1759405692662
+  },
+  {
+    "username": "ruiz",
+    "password": "ruiz",
+    "role": "USER",
+    "expired": "999d",
+    "expiredAt": 1845727478813,
+    "deviceId": null,
+    "createdAt": 1759413878813
   }
 ]
