@@ -30,7 +30,7 @@
     "password": "fanz",
     "role": "USER",
     "expired": "1d",
-    "deviceId": "dev-fe31c83",
+    "deviceId": null,
     "createdAt": 1758339429546
   },
   {
@@ -242,66 +242,12 @@
     "createdAt": 1758630046952
   },
   {
-    "username": "sarzz",
-    "password": "sarzz320",
-    "role": "USER",
-    "expired": "30d",
-    "expiredAt": 1761995667772,
-    "deviceId": null,
-    "createdAt": 1759403667772
-  },
-  {
-    "username": "Ricc",
-    "password": "Ricc42",
-    "role": "USER",
-    "expired": "100d",
-    "expiredAt": 1768044391088,
-    "deviceId": null,
-    "createdAt": 1759404391088
-  },
-  {
-    "username": "mutii",
-    "password": "gacorking",
-    "role": "USER",
-    "expired": "30d",
-    "expiredAt": 1761996636293,
-    "deviceId": "dev-4d15cd26",
-    "createdAt": 1759404636293
-  },
-  {
     "username": "kill",
     "password": "kill61",
     "role": "USER",
     "expired": "10000d",
-    "expiredAt": 2623404877730,
+    "expiredAt": 2623480184638,
     "deviceId": null,
-    "createdAt": 1759404877730
-  },
-  {
-    "username": "Rapz",
-    "password": "Rapz321",
-    "role": "USER",
-    "expired": "15d",
-    "expiredAt": 1760701284765,
-    "deviceId": null,
-    "createdAt": 1759405284765
-  },
-  {
-    "username": "Aditya",
-    "password": "aditya123",
-    "role": "USER",
-    "expired": "14d",
-    "expiredAt": 1760615292662,
-    "deviceId": null,
-    "createdAt": 1759405692662
-  },
-  {
-    "username": "ruiz",
-    "password": "ruiz",
-    "role": "USER",
-    "expired": "999d",
-    "expiredAt": 1845727478813,
-    "deviceId": "dev-212a968d",
-    "createdAt": 1759413878813
+    "createdAt": 1759480184638
   }
 ]
