@@ -30,7 +30,7 @@
     "password": "fanz",
     "role": "USER",
     "expired": "1d",
-    "deviceId": null,
+    "deviceId": "dev-fe31c83",
     "createdAt": 1758339429546
   },
   {
