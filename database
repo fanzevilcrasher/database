@@ -258,5 +258,14 @@
     "expiredAt": 1762072367028,
     "deviceId": null,
     "createdAt": 1759480367028
+  },
+  {
+    "username": "Riccstore",
+    "password": "Ricc42",
+    "role": "USER",
+    "expired": "84d",
+    "expiredAt": 1766738010482,
+    "deviceId": null,
+    "createdAt": 1759480410482
   }
 ]
