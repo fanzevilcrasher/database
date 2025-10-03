@@ -52,7 +52,7 @@
     "role": "USER",
     "expired": "1000d",
     "expiredAt": 1845882199141,
-    "deviceId": null,
+    "deviceId": "dev-30032418",
     "createdAt": 1759482199141
   },
   {
@@ -79,7 +79,7 @@
     "role": "USER",
     "expired": "13d",
     "expiredAt": 1760608837670,
-    "deviceId": "dev-20331f62",
+    "deviceId": null,
     "createdAt": 1759485637670
   }
 ]
