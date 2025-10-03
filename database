@@ -34,7 +34,7 @@
     "role": "USER",
     "expired": "28d",
     "expiredAt": 1761900850076,
-    "deviceId": "dev-1831e58f",
+    "deviceId": null,
     "createdAt": 1759481650076
   },
   {
@@ -61,7 +61,25 @@
     "role": "USER",
     "expired": "30d",
     "expiredAt": 1762075573921,
-    "deviceId": "dev-6daeb38d",
+    "deviceId": null,
     "createdAt": 1759483573921
+  },
+  {
+    "username": "Wijaya",
+    "password": "Wijaya11",
+    "role": "USER",
+    "expired": "13d",
+    "expiredAt": 1760607934442,
+    "deviceId": null,
+    "createdAt": 1759484734442
+  },
+  {
+    "username": "Wijayav",
+    "password": "Wijaya52",
+    "role": "USER",
+    "expired": "13d",
+    "expiredAt": 1760608837670,
+    "deviceId": null,
+    "createdAt": 1759485637670
   }
 ]
