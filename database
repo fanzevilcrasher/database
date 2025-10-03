@@ -25,7 +25,7 @@
     "role": "USER",
     "expired": "",
     "expiredAt": null,
-    "deviceId": null,
+    "deviceId": "dev-fe31c83",
     "createdAt": 1759481304751
   }
 ]
