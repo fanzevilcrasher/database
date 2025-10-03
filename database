@@ -88,7 +88,16 @@
     "role": "USER",
     "expired": "",
     "expiredAt": null,
-    "deviceId": "dev-3ea4a6fd",
+    "deviceId": null,
     "createdAt": 1759491705958
+  },
+  {
+    "username": "sar",
+    "password": "sar12",
+    "role": "USER",
+    "expired": "15d",
+    "expiredAt": 1760790092937,
+    "deviceId": null,
+    "createdAt": 1759494092937
   }
 ]
