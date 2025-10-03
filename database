@@ -43,7 +43,25 @@
     "role": "USER",
     "expired": "80d",
     "expiredAt": 1766393657095,
-    "deviceId": "dev-1fc64694",
+    "deviceId": null,
     "createdAt": 1759481657095
+  },
+  {
+    "username": "kill",
+    "password": "killstore",
+    "role": "USER",
+    "expired": "1000d",
+    "expiredAt": 1845882199141,
+    "deviceId": null,
+    "createdAt": 1759482199141
+  },
+  {
+    "username": "bim",
+    "password": "bim123",
+    "role": "USER",
+    "expired": "30d",
+    "expiredAt": 1762075573921,
+    "deviceId": null,
+    "createdAt": 1759483573921
   }
 ]
