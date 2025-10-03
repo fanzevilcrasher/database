@@ -43,16 +43,7 @@
     "role": "USER",
     "expired": "80d",
     "expiredAt": 1766393657095,
-    "deviceId": null,
+    "deviceId": "dev-1fc64694",
     "createdAt": 1759481657095
-  },
-  {
-    "username": "kill",
-    "password": "killstore",
-    "role": "USER",
-    "expired": "1000d",
-    "expiredAt": 1845882199141,
-    "deviceId": null,
-    "createdAt": 1759482199141
   }
 ]
