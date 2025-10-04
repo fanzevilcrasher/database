@@ -117,5 +117,14 @@
     "expiredAt": 1760754440590,
     "deviceId": null,
     "createdAt": 1759544840590
+  },
+  {
+    "username": "prezz",
+    "password": "prezz11",
+    "role": "USER",
+    "expired": "90d",
+    "expiredAt": 1767320871718,
+    "deviceId": null,
+    "createdAt": 1759544871718
   }
 ]
