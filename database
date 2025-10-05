@@ -151,7 +151,7 @@
     "role": "USER",
     "expired": "30d",
     "expiredAt": 1762226706831,
-    "deviceId": null,
+    "deviceId": "dev-3380d6fa",
     "createdAt": 1759634706831
   }
 ]
