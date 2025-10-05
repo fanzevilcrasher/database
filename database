@@ -137,15 +137,6 @@
     "createdAt": 1759545608486
   },
   {
-    "username": "testlangsungdelaja",
-    "password": "testdoang",
-    "role": "USER",
-    "expired": "1d",
-    "expiredAt": 1759681618124,
-    "deviceId": null,
-    "createdAt": 1759595218124
-  },
-  {
     "username": "vinzz",
     "password": "vinzz01",
     "role": "USER",
@@ -178,7 +169,7 @@
     "role": "USER",
     "expired": "13d",
     "expiredAt": 1760798685272,
-    "deviceId": "dev-89dd288",
+    "deviceId": null,
     "createdAt": 1759675485272
   }
 ]
