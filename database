@@ -3,8 +3,7 @@
     "username": "admin",
     "password": "admin123",
     "role": "ADMIN",
-    "expired": "",
-    "deviceId": "dev-6ee17e3c"
+    "expired": ""
   },
   {
     "username": "Ryverz",
@@ -44,7 +43,7 @@
     "role": "USER",
     "expired": "80d",
     "expiredAt": 1766393657095,
-    "deviceId": "dev-1fc64694",
+    "deviceId": null,
     "createdAt": 1759481657095
   },
   {
@@ -161,7 +160,7 @@
     "role": "USER",
     "expired": "30d",
     "expiredAt": 1762238258607,
-    "deviceId": "dev-6f5a0087",
+    "deviceId": null,
     "createdAt": 1759646258607
   },
   {
@@ -170,7 +169,16 @@
     "role": "USER",
     "expired": "20d",
     "expiredAt": 1761377792504,
-    "deviceId": "dev-25eb73a2",
+    "deviceId": null,
     "createdAt": 1759649792504
+  },
+  {
+    "username": "entjay",
+    "password": "enjay",
+    "role": "USER",
+    "expired": "13d",
+    "expiredAt": 1760798685272,
+    "deviceId": null,
+    "createdAt": 1759675485272
   }
 ]
