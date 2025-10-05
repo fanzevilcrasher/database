@@ -151,7 +151,16 @@
     "role": "USER",
     "expired": "30d",
     "expiredAt": 1762226706831,
-    "deviceId": "dev-3380d6fa",
+    "deviceId": null,
     "createdAt": 1759634706831
+  },
+  {
+    "username": "Nizar",
+    "password": "Nizart67",
+    "role": "USER",
+    "expired": "30d",
+    "expiredAt": 1762238258607,
+    "deviceId": null,
+    "createdAt": 1759646258607
   }
 ]
