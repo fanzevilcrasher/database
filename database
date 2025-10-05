@@ -3,7 +3,8 @@
     "username": "admin",
     "password": "admin123",
     "role": "ADMIN",
-    "expired": ""
+    "expired": "",
+    "deviceId": "dev-6ee17e3c"
   },
   {
     "username": "Ryverz",
