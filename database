@@ -160,7 +160,16 @@
     "role": "USER",
     "expired": "30d",
     "expiredAt": 1762238258607,
-    "deviceId": "dev-237daf2d",
+    "deviceId": null,
     "createdAt": 1759646258607
+  },
+  {
+    "username": "ditsz",
+    "password": "ditsz123",
+    "role": "USER",
+    "expired": "20d",
+    "expiredAt": 1761377792504,
+    "deviceId": null,
+    "createdAt": 1759649792504
   }
 ]
