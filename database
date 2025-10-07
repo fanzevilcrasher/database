@@ -10,6 +10,7 @@
     "username": "Ryverz",
     "password": "Ryverz113q",
     "role": "VIP",
-    "expired": ""
+    "expired": "",
+    "deviceId": "dev-1e3c7b4e"
   }
 ]
