@@ -32,7 +32,16 @@
     "role": "USER",
     "expired": "30d",
     "expiredAt": 1763626647369,
-    "deviceId": "dev-6606eef4",
+    "deviceId": null,
     "createdAt": 1761034647370
+  },
+  {
+    "username": "dimas",
+    "password": "dimas",
+    "role": "USER",
+    "expired": "3000d",
+    "expiredAt": 2020244269454,
+    "deviceId": null,
+    "createdAt": 1761044269454
   }
 ]
