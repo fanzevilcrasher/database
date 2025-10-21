@@ -23,7 +23,16 @@
     "role": "USER",
     "expired": "30d",
     "expiredAt": 1763625549394,
-    "deviceId": "dev-79ec87c",
+    "deviceId": null,
     "createdAt": 1761033549394
+  },
+  {
+    "username": "bila",
+    "password": "bila",
+    "role": "USER",
+    "expired": "30d",
+    "expiredAt": 1763626647369,
+    "deviceId": null,
+    "createdAt": 1761034647370
   }
 ]
