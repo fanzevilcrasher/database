@@ -32,7 +32,7 @@
     "role": "USER",
     "expired": "30d",
     "expiredAt": 1763626647369,
-    "deviceId": "dev-6606eef4",
+    "deviceId": null,
     "createdAt": 1761034647370
   },
   {
@@ -52,5 +52,14 @@
     "expiredAt": 1763643797813,
     "deviceId": null,
     "createdAt": 1761051797814
+  },
+  {
+    "username": "<lynz>",
+    "password": "<lynz13",
+    "role": "USER",
+    "expired": "<90d>",
+    "expiredAt": null,
+    "deviceId": null,
+    "createdAt": 1761206164691
   }
 ]
