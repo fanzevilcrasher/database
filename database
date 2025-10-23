@@ -54,12 +54,12 @@
     "createdAt": 1761051797814
   },
   {
-    "username": "<lynz>",
-    "password": "<lynz13",
+    "username": "anakbuah",
+    "password": "yantok",
     "role": "USER",
-    "expired": "<90d>",
-    "expiredAt": null,
-    "deviceId": "dev-61af06c1",
-    "createdAt": 1761206164691
+    "expired": "20d",
+    "expiredAt": 1762938465703,
+    "deviceId": null,
+    "createdAt": 1761210465703
   }
 ]
