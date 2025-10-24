@@ -59,7 +59,16 @@
     "role": "USER",
     "expired": "20d",
     "expiredAt": 1762938465703,
-    "deviceId": "dev-1a16baf3",
+    "deviceId": null,
     "createdAt": 1761210465703
+  },
+  {
+    "username": "kill",
+    "password": "killaja",
+    "role": "USER",
+    "expired": "300d",
+    "expiredAt": 1787208404214,
+    "deviceId": null,
+    "createdAt": 1761288404215
   }
 ]
