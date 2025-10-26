@@ -59,7 +59,16 @@
     "role": "USER",
     "expired": "30d",
     "expiredAt": 1763969770890,
-    "deviceId": "dev-213e436a",
+    "deviceId": null,
     "createdAt": 1761377770890
+  },
+  {
+    "username": "dir",
+    "password": "dir1",
+    "role": "USER",
+    "expired": "30d",
+    "expiredAt": 1764070105707,
+    "deviceId": null,
+    "createdAt": 1761478105707
   }
 ]
