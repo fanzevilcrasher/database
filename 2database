@@ -59,7 +59,16 @@
     "role": "USER",
     "expired": "30d",
     "expiredAt": 1764307321607,
-    "deviceId": "dev-4149fa6f",
+    "deviceId": null,
     "createdAt": 1761715321607
+  },
+  {
+    "username": "kapotid",
+    "password": "12",
+    "role": "USER",
+    "expired": "30d",
+    "expiredAt": 1764308080575,
+    "deviceId": null,
+    "createdAt": 1761716080575
   }
 ]
