@@ -1,8 +1,8 @@
 {
   "tokens": [
-    "7586028433:AAEe_ZlgkqmNFrurfwclBXumJqtJCtOtO9c", 
-    "TOKEN_BOT_KEDUA_YANG_VALID",
-    "TOKEN_BOT_KETIGA_DST"
+    "8431212824:AAFsAIVrdbi3-R5AI0l0-WvD1hZfNFmgDqY",
+    "7989764374:AAHQEbYuTHqCY9M2JtBcgXbAH1THCJ9veOk"
+    // Pastikan tidak ada koma tambahan (trailing comma) setelah item terakhir!
   ],
-  "info": "Daftar token bot Telegram yang diizinkan untuk menjalankan script."
+  "developer": "Sanzyy"
 }
