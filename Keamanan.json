@@ -1,5 +1,8 @@
-[
 {
- "7586028433:AAEe_ZlgkqmNFrurfwclBXumJqtJCtOtO9c"
+  "tokens": [
+    "7586028433:AAEe_ZlgkqmNFrurfwclBXumJqtJCtOtO9c", 
+    "TOKEN_BOT_KEDUA_YANG_VALID",
+    "TOKEN_BOT_KETIGA_DST"
+  ],
+  "info": "Daftar token bot Telegram yang diizinkan untuk menjalankan script."
 }
-]
